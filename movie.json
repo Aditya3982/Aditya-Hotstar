@@ -1,0 +1,175 @@
+[{
+    "name":"Stree 2",
+    "type": "Horror",
+    "img":"stree 2.jpg",
+    "genre":"Comedy|Horror",
+    "url": "Stree 2.html"
+},{
+"name":"Pushpa 2",
+    "type": "Movies",
+    "img":"pushpa 2.jpg",
+"genre":"Action|Thriller",
+    "url": "Pushpa 2.html"
+},{
+    "name":"Aranamanai 4",
+    "type": "Horror",
+    "img":"aranamanai 4.jpg",
+    "genre":"Thriller|Horror",
+    "url": "Aranamanai 4.html"
+},{
+    "name":"Aranamanai 3",
+    "type": "Horror",
+    "img":"aranamanai 3.jpg",
+    "genre":"Thriller|Horror",
+    "url": "Aranamanai 3.html"
+},{
+    "name":"Stree",
+    "type": "Horror",
+    "img":"stree.jpg",
+    "genre":"Thriller|Horror|Comedy",
+    "url": "Stree.html"
+},{
+    "name":"Bhool Bhulaiya",
+    "type": "Horror",
+    "img":"bhool bhulaiya 1.webp",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Bhool Bhulaiya.html"
+},{
+    "name":"Bhool Bhulaiya 2",
+    "type": "Horror",
+    "img":"bhool bhulaiya 2.jpg",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Bhool Bhulaiya 2.html"
+},{
+    "name":"Bhool Bhulaiya 3",
+    "type": "Horror",
+    "img":"bhool bhulaiya 3.jpg",
+    "genre":"Thriller|Comedy|Horror",
+        "url": "Bhool Bhulaiya 3.html"
+},{
+    "name":"Kanchana 4",
+    "type": "Horror",
+    "img":"kanchana 4.jpg",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Kanchana 4.html"
+},{
+    "name":"Kanchana 2",
+    "type": "Horror",
+    "img":"kanchana 2.jpg",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Kanchana 2.html"
+  },{
+    "name":"Kanchana ",
+    "type": "Horror",
+    "img":"kanchana.jpg",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Kanchana.html"
+  },{
+    "name":"Rajmahal",
+    "type": "Horror",
+    "img":"rajmahal 1.jpg",
+    "genre":"Thriller|Horror",
+    "url": "Rajmahal.html"
+  },{
+    "name":"Rajmahal 2",
+    "type": "Horror",
+    "img":"rajmahal 2.jpg",
+    "genre":"Thriller|Horror",
+    "url": "Rajmahal 2.html"
+  },{
+    "name":"Shaapit",
+    "type": "Horror",
+    "img":"shaapit.jpg",
+    "genre":"Thriller|Comedy|Horror",
+    "url": "Shaapit.html"
+  },{
+    "name":"Maharshi",
+    "type": "Action",
+    "img":"maharshi.jpg",
+    "genre":"Thriller|Action",
+    "url": "Maharshi.html"
+  },{
+    "name":"Pushpa",
+    "type": "Action",
+    "img":"pushpa image.jpeg",
+    "genre":"Thriller|Action",
+    "url": "Pushpa.html"
+  },{
+    "name":"K.G.F. chapter:1",
+    "type": "Action",
+    "img":"kgf ch1.png",
+    "genre":"Thriller|Action",
+    "url": "K.G.F chapter 1.html"
+  },{
+     "name":"Varisu",
+    "type": "Action",
+    "img":"varisu.jpg",
+    "genre":"Comedy|Thriller",
+    "url": "Varisu.html"
+  },{
+    "name":"12th Fail",
+    "type": "Entertainment",
+    "img":"12th fail.jpg",
+    "genre":"serious",
+    "url": "12th Fail.html"
+  },{
+    "name":"Phir Hera Pheri",
+    "type": "Entertainment",
+    "img":"phir hera phri.jpg",
+    "genre":"Comedy",
+    "url": "Phir Hera Pheri.html"
+  },{
+    "name":"Hera Pheri",
+    "type": "Entertainment",
+    "img":"hera pheri.jpg",
+    "genre":"Comedy",
+    "url": "Hera Pheri.html"
+  },{
+    "name":"Munna bhai MBBS",
+    "type": "Entertainment",
+    "img":"munna bhai mbbs.jpg",
+    "genre":"Comedy",
+    "url": "Munna Bhai MBBS.html"
+  },{
+    "name":"P.K",
+    "type": "Entertainment",
+    "img":"PK-movie.jpg",
+    "genre":"Comedy",
+    "url": "P.K.html"
+  },{
+    "name":"Taare Zameen Par",
+    "type": "Entertainment",
+    "img":"tare zameen par.jpg",
+    "genre":"Comedy|serious",
+    "url": "Taare Zameen Par.html"
+  },{
+    "name":"Three Idiots",
+    "type": "Entertainment",
+    "img":"3 idiots.jpg",
+    "genre":"Comedy",
+    "url": "Three idiots.html"
+  },{
+    "name":"K.G.F Chapter:2",
+    "type": "Action",
+    "img":"kgf ch2.jpg",
+    "genre":"Action|Period|Thriller",
+    "url": "kgf ch2.html"
+  },{
+    "name":"Laapata Ladies",
+    "type": "Entertainment",
+    "img":"laapatta ladies.jpg",
+    "genre":"Comedy|Drama",
+    "url": "lapatta ladies.html"
+  },{
+    "name":"Bigil",
+    "type": "Entertainment",
+    "img":"bigil.png",
+    "genre":"Comedy|Action|Drama",
+    "url": "bigil.html"
+  },{
+    "name":"Maharaja",
+    "type": "Action",
+    "img":"maharaja.jpg",
+    "genre":"Action|Thriller|Period",
+    "url": "maharaja.html"
+  }]
